@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803631206095",
+    "firebase_url": "https://dukaan-deea4.firebaseio.com",
+    "project_id": "dukaan-deea4",
+    "storage_bucket": "dukaan-deea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803631206095:android:3496f33686b739ed",
+        "android_client_info": {
+          "package_name": "com.byteshaft.dukaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803631206095-j5r9m2bv61786vc7fbkkvmah91v1mboj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.byteshaft.dukaan",
+            "certificate_hash": "8fd0f3bac63d5acae6173b16812f21340535e05e"
+          }
+        },
+        {
+          "client_id": "803631206095-ada2mdcm3s3l0eh7o2sbvgu3i4nmmdgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGGT-oT9wd_mSfYPYg-0NQUIpnq9VaPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803631206095-ada2mdcm3s3l0eh7o2sbvgu3i4nmmdgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
